@@ -10,7 +10,8 @@ public class TiposVariaveis {
 
         final double VALOR_PI = 3.14;
 
-       
+       int modulo = 15 % 2;
+       System.out.println(modulo);
 
         System.err.println(VALOR_PI);
 
